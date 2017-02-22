@@ -1,0 +1,2 @@
+# CoDA-QA-Template
+Scheduling some time to test is imperative! Testing allows you to find &amp; resolve bugs before you ship to users. When you work with your developer, ask for them to send you copies of the application at certain milestones so you can test &amp; resolve bugs. The best time to do this is when the developer has completed all the goals for a certain feature.  Click every button, go back to your design strategy and make sure your product allows users to accomplish their tasks. Take detailed notes, so that your developer can easily understand and solve issues.
